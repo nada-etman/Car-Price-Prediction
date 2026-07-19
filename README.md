@@ -91,7 +91,7 @@ Feature importance analysis indicates that `Present_Price` contributes the most 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/CodeAlpha_Car_Price_Prediction.git
+git clone https://github.com/nada-etman/CodeAlpha_Car_Price_Prediction.git
 cd CodeAlpha_Car_Price_Prediction
 ```
 
