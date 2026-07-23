@@ -112,7 +112,7 @@ The script trains the models, evaluates their performance, and generates all vis
 ##  Project Structure
 
 ```
-CodeAlpha_Car_Price_Prediction/
+Car_Price_Prediction/
 │
 ├── car_data.csv
 ├── car_price_prediction.py
